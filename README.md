@@ -7,3 +7,4 @@ Keywords: Machine Learning, CNN Algorithm, Deep Learning, Classification
 
 System Architecture 
 The system diagram depicts various steps according to various events that are performed in the proposed system. 
+C:\Users\sumed\Desktop\su\sys arc
