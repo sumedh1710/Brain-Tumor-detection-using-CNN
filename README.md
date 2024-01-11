@@ -8,5 +8,5 @@ Keywords: Machine Learning, CNN Algorithm, Deep Learning, Classification
 System Architecture 
 The system diagram depicts various steps according to various events that are performed in the proposed system. 
 
-[system arc](https://github.com/sumedh1710/Brain-Tumor-detection-using-CNN/assets/64302716/3ed4bbc6-737c-4d26-9443-5c037e08c15c)
+![Image Alt Text](https://github.com/sumedh1710/Brain-Tumor-detection-using-CNN/assets/64302716/3ed4bbc6-737c-4d26-9443-5c037e08c15c)
 
