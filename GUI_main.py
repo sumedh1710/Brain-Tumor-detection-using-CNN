@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 29 14:27:05 2021
 
-@author: om
-"""
+
+
 
 import tkinter as tk
 from tkinter import ttk, LEFT, END
@@ -15,18 +13,15 @@ import sqlite3
 import os
 import numpy as np
 import time
-#import video_capture as value
-#import lecture_details as detail_data
-#import video_second as video1
 
-#import lecture_video  as video
+
 
 global fn
 fn = ""
 ##############################################+=============================================================
 root = tk.Tk()
 root.configure(background="brown")
-# root.geometry("1300x700")
+
 
 
 w, h = root.winfo_screenwidth(), root.winfo_screenheight()
