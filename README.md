@@ -16,6 +16,10 @@ The Proposed system will help to detect different kinds of tumors from the MRI i
 The detection of brain tumors through the proposed system will  not only identify the affected part of the brain but also to the tumor shape, size, boundary, and position. 
 
 Screenshots
-![Image Alt Text]()
+![Image Alt Text](https://github.com/sumedh1710/Brain-Tumor-detection-using-CNN/blob/main/Screenshot%202025-02-25%20014603.png)
+![Image Alt Text](https://github.com/sumedh1710/Brain-Tumor-detection-using-CNN/blob/main/Screenshot%202025-02-25%20014634.png)
+![Image Alt Text](https://github.com/sumedh1710/Brain-Tumor-detection-using-CNN/blob/main/Screenshot%202025-02-25%20014653.png)
+![Image Alt Text](https://github.com/sumedh1710/Brain-Tumor-detection-using-CNN/blob/main/Screenshot%202025-02-25%20014726.png)
+![Image Alt Text](https://github.com/sumedh1710/Brain-Tumor-detection-using-CNN/blob/main/Screenshot%202025-02-25%20014738.png)
 
 
